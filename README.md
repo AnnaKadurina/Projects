@@ -9,4 +9,6 @@ In the AICore folder, you can find 2 notebooks - SentimentAnalysis and ImageReco
 ## AI Advanced
 In the AI Advanced folder, you can see all my work during the AI Advanced semester, where I explored different deep learning methods, completed an individual project and exercises. As well as that, my contribution to the group project is present.
 ## Internship
-Lastly, the repository contains a zip file with the portfolio and supporting documentation of my internship as a backend developer at Van Lanschot Kempen.
+The internship.zip is a zip file with the portfolio and supporting documentation of my internship as a backend developer at Van Lanschot Kempen.
+## Graduation Internship
+Lastly, the GraduationInternship.zip contains the whole portfolio of my graduation semester at Fontys University of Applied Sciences. The internship was 5 months and was carried out at Nemetschek Bulgaria. 
